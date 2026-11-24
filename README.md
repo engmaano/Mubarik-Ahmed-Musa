@@ -1,5 +1,47 @@
 # 💫 About Me:
-I'm working for end devloper 
+Hi, I’m Mubarik Ahmed Musa 👋
+
+💻 Software Engineering Student | Aspiring Full-Stack Developer
+
+Welcome to my GitHub profile!
+
+I’m a Software Engineering student passionate about technology, programming, and building useful digital solutions.
+
+🚀 About Me
+
+* 🎓 Software Engineering Student
+* 💻 Learning Full-Stack Web Development
+* 🌱 Improving my programming and problem-solving skills
+* 🎨 Graphic Designer & Video Editor
+* 🎯 Goal: Become a Professional Full-Stack Software Engineer
+
+🛠️ Technologies & Tools
+
+* HTML5
+* CSS3
+* JavaScript
+* Java
+* Python
+* SQL
+* MySQL
+* Git & GitHub
+* React (Learning)
+* Node.js (Learning)
+
+📚 Currently Learning
+
+* Frontend Development
+* Backend Development
+* Database Management
+* Version Control with Git & GitHub
+
+📫 Connect With Me
+
+* GitHub: https://github.com/engmaano
+
+⸻
+
+⭐ Always Learning, Always Building, Always Growing. 
 
 
 ## 🌐 Socials:
